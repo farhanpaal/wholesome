@@ -1,4 +1,4 @@
-# 📚 Study Vault – Programming & Development Resources
+# 📚 Wholesome – Programming & Development Resources
 
 Welcome to **Study Vault** 🚀  
 This repository is a long-term learning project where I collect, organize, and update **study materials, notes, examples, and practice resources** for various programming languages and technologies.
