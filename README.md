@@ -29,34 +29,6 @@ Each section may include:
 
 ---
 
-## 📁 Folder Structure (Example)
-Study-Vault/
-│
-├── HTML/
-│ ├── notes.html
-│ ├── examples/
-│
-├── CSS/
-│ ├── notes.css
-│ ├── layouts/
-│
-├── JavaScript/
-│ ├── basics.js
-│ ├── dom/
-│
-├── Python/
-│ ├── basics.py
-│ ├── projects/
-│
-├── C/
-│ ├── fundamentals.c
-│
-├── Cpp/
-│ ├── oop.cpp
-│
-└── README.md
-
-
 > 📌 Folder structure may evolve as the project grows.
 
 ---
