@@ -30,4 +30,54 @@ Each section may include:
 ---
 
 ## 📁 Folder Structure (Example)
+Study-Vault/
+│
+├── HTML/
+│ ├── notes.html
+│ ├── examples/
+│
+├── CSS/
+│ ├── notes.css
+│ ├── layouts/
+│
+├── JavaScript/
+│ ├── basics.js
+│ ├── dom/
+│
+├── Python/
+│ ├── basics.py
+│ ├── projects/
+│
+├── C/
+│ ├── fundamentals.c
+│
+├── Cpp/
+│ ├── oop.cpp
+│
+└── README.md
+
+
+> 📌 Folder structure may evolve as the project grows.
+
+---
+
+## 🛠️ Technologies Used
+
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **Python**
+- **C**
+- **C++**
+
+Some parts may combine multiple technologies in small projects.
+
+---
+
+## ▶️ How to Use This Repository
+
+### 🔹 1. Clone the Repository
+```bash
+git clone https://github.com/farhanpaal/wholesome
+
 
